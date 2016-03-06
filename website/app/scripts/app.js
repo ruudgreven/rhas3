@@ -32,4 +32,6 @@ angular
       .otherwise({
         redirectTo: '/tab/main'
       });
+  }).constant('config', {
+    api: 'http://localhost:3000',
   });
