@@ -1,0 +1,46 @@
+// bower:scss
+// endbower
+
+* {
+  margin: 0;
+}
+
+html, body {
+  height: 100%;
+  overflow: hidden;
+}
+
+header {
+  height: 48px;
+}
+
+main {
+  height: calc(100vh - 96px);
+}
+
+footer {
+  height: 48px;
+}
+
+md-grid-list {
+  margin: 0px;
+}
+
+.gray {
+  background: #f5f5f5;
+}
+.green {
+  background: #b9f6ca;
+}
+.yellow {
+  background: #ffff8d;
+}
+.blue {
+  background: #84ffff;
+}
+.purple {
+  background: #b388ff;
+}
+.red {
+  background: #ff8a80;
+}

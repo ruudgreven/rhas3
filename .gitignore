@@ -1,0 +1,18 @@
+# Idea configuration
+.idea
+
+## File-based project format:
+*.iws
+
+# Config file
+config.inc.php
+
+# Tmp files and folder
+tmp
+.DS_Store
+
+# Bittorrent sync file
+.bts
+
+# Htaccess files
+.htaccess
